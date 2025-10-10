@@ -13,9 +13,10 @@
         "ms-python.vscode-pylance",
         "ms-vscode.powershell",
         "GitHub.copilot",
-        //"GitHub.copilot-chat",
+        "GitHub.copilot-chat",
         "ms-toolsai.jupyter",
-        "charliermarsh.ruff"
+        "charliermarsh.ruff",
+        "ms-vscode-remote.remote-wsl"
       ]
     }
   },
